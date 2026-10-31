@@ -1,0 +1,12 @@
+# Proyecto Slidev
+slidev/node_modules/
+slidev/dist/
+slidev/.slidev/
+slidev/*.md__slidev_*.md
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# enlace local del servidor de QA (no versionar)
+slidev/herramientas/FormacionIA-Productividad/
