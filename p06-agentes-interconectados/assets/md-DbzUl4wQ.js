@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-D9EYCfpG.js";import{t as u}from"./slidev/default-CcZsfJ5y.js";var d={__name:`p06-agentes-interconectados.md__slidev_7`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),6))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p06-agentes-interconectados/slide06.mp3`})],-1),a(`h2`,null,`🔁 Flujo 3 · De la pila de facturas al informe`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Encargo:`),i(` 12 facturas de proveedores del mes convertidas en un informe para dirección.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`⛓ La cadena, paso a paso`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#f59e0b`}},[a(`code`,null,`Paso 1 · Facturas
+\xA0  compara cada factura con su
+\xA0  pedido y marca diferencias.
+Paso 2 · Documentos
+\xA0  agrupa: cuadran / no cuadran.
+Paso 3 · Revisor
+\xA0  vuelve a sumar los totales.
+▶ ENTREGA: tabla de diferencias +
+\xA0  informe de 10 líneas + lista de
+\xA0  reclamaciones pendientes.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Dónde miras tú`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Las 12 facturas siguen todas, ni una de más?`),a(`li`,null,`¿Sumaste a mano el total del informe?`),a(`li`,null,`¿Ninguna factura sale como "cuadra" sin cuadrar?`),a(`li`,null,`¿La lista de reclamaciones usa tus números?`),a(`li`,null,`Errores típicos: se "pierde" una factura de la pila`),a(`li`,null,`Errores típicos: el informe propone recortes que nadie pidió`)]),a(`p`,{class:`sm`,style:{"margin-top":`.3em`}},[a(`strong`,null,`Regla:`),i(` el dinero siempre se suma dos veces, una por agente y otra por ti.`)])])],-1)]]),_:1},16))}};export{d as default};

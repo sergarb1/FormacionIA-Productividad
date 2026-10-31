@@ -18,7 +18,8 @@ const DECKS = [
   { entry: 'p03-productividad-personal.md', slug: 'p03-productividad-personal', pdf: 'p03-productividad-personal.pdf' },
   { entry: 'p04-notas-viajes-movil.md',    slug: 'p04-notas-viajes-movil',    pdf: 'p04-notas-viajes-movil.pdf' },
   { entry: 'p05-productividad-equipo.md',  slug: 'p05-productividad-equipo',  pdf: 'p05-productividad-equipo.pdf' },
-  // Las partes 6-8 se añadirán en las fases siguientes del curso
+  { entry: 'p06-agentes-interconectados.md', slug: 'p06-agentes-interconectados', pdf: 'p06-agentes-interconectados.pdf' },
+  // Las partes 7-8 se añadirán en las fases siguientes del curso
 ]
 
 function run(args) {
