@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-DQRaVHPy.js";import{t as u}from"./slidev/default-CXEJvr3L.js";var d={__name:`p05-productividad-equipo.md__slidev_4`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),3))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p05-productividad-equipo/slide03.mp3`})],-1),a(`h2`,null,`📊 Caso 3 · El resumen del Excel`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` Marta quiere "un resumen del mes" del cuadro de gastos. Las cifras salen del cuadro, no de la memoria del agente.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#10b981`}},[a(`code`,null,`[1] Soy responsable de administración.
+[2] Resume este cuadro de gastos de
+\xA0    noviembre en 10 líneas.
+[3] Datos: filas copiadas (fecha,
+\xA0    concepto, importe) ficticias.
+[4] Formato: 3 bloques — total, qué
+\xA0    subió, qué propongo revisar.
+[5] No hagas cálculos nuevos ni
+\xA0    redondees: cada cifra debe salir
+\xA0    del cuadro pegado.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Todas las cifras aparecen en mi cuadro?`),a(`li`,null,`¿He sumado el total a mano y coincide?`),a(`li`,null,`¿Ninguna recomendación se apoya en un número inventado?`),a(`li`,null,`¿Cabe en las 10 líneas que pedí?`),a(`li`,null,`Errores típicos: "redondea" y se pierden céntimos`),a(`li`,null,`Errores típicos: propone recortar cosas que nadie pidió`)])])],-1)]]),_:1},16))}};export{d as default};

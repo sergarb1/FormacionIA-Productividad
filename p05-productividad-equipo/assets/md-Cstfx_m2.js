@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-DQRaVHPy.js";import{t as u}from"./slidev/default-CXEJvr3L.js";var d={__name:`p05-productividad-equipo.md__slidev_3`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),2))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p05-productividad-equipo/slide02.mp3`})],-1),a(`h2`,null,`📝 Caso 2 · El acta de la reunión`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` reunión del lunes con 8 notas sueltas. El acta debe decir quién hace qué y para cuándo — sin inventar acuerdos.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#8b5cf6`}},[a(`code`,null,`[1] Soy coordinador de un equipo de 4.
+[2] Convierte estas notas de la reunión
+\xA0    del lunes en un acta.
+[3] Datos: 8 notas sueltas (ficticias);
+\xA0    asisten Ana, Carlos y Marta.
+[4] Formato: asistentes / acuerdos con
+\xA0    responsable y fecha / pendientes.
+[5] No inventes acuerdos ni fechas: lo
+\xA0    que quedó abierto, márcalo como
+\xA0    "sin decidir".`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Solo aparecen las 3 personas de mis notas?`),a(`li`,null,`¿Cada acuerdo lleva responsable y fecha solo si los di?`),a(`li`,null,`¿Lo "sin decidir" no sale como si estuviera cerrado?`),a(`li`,null,`¿Las 8 notas siguen todas reflejadas, sin duplicar?`),a(`li`,null,`Errores típicos: inventa acuerdos "lógicos" que nadie pactó`),a(`li`,null,`Errores típicos: convierte "la semana que viene" en fecha exacta`)])])],-1)]]),_:1},16))}};export{d as default};

@@ -17,7 +17,8 @@ const DECKS = [
   { entry: 'p02-prompting-oficina.md',     slug: 'p02-prompting-oficina',     pdf: 'p02-prompting-oficina.pdf' },
   { entry: 'p03-productividad-personal.md', slug: 'p03-productividad-personal', pdf: 'p03-productividad-personal.pdf' },
   { entry: 'p04-notas-viajes-movil.md',    slug: 'p04-notas-viajes-movil',    pdf: 'p04-notas-viajes-movil.pdf' },
-  // Las partes 5-8 se añadirán en las fases siguientes del curso
+  { entry: 'p05-productividad-equipo.md',  slug: 'p05-productividad-equipo',  pdf: 'p05-productividad-equipo.pdf' },
+  // Las partes 6-8 se añadirán en las fases siguientes del curso
 ]
 
 function run(args) {
