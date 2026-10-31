@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CNXmt1Pb.js";import{t as u}from"./slidev/default-D3VpHDPb.js";var d={__name:`p04-notas-viajes-movil.md__slidev_3`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),2))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p04-notas-viajes-movil/slide02.mp3`})],-1),a(`h2`,null,`🔍 Caso 2 · "¿Qué quedó con este proveedor?"`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` dentro de 3 meses necesitas recuperar lo acordado. Tu segundo cerebro responde en segundos.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#8b5cf6`}},[a(`code`,null,`[1] Soy compras.
+[2] Busca en mis notas todo lo de
+\xA0    Suministros Norte y resúmelo.
+[3] Contexto: carpeta "notas-octubre"
+\xA0    con 14 notas (ficticias).
+[4] Formato: línea de tiempo con fechas
+\xA0    y, al final, lo que queda pendiente.
+[5] Si una fecha no está escrita, dilo;
+\xA0    no la deduzcas.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Solo aparecen notas que tratan de ese proveedor?`),a(`li`,null,`¿Las fechas son las escritas, sin deducir?`),a(`li`,null,`¿El bloque "pendiente" apunta a algo real y no a una invención?`),a(`li`,null,`Errores típicos: responde de memoria en vez de en tus notas`),a(`li`,null,`Errores típicos: se salta notas por parecidas`)])])],-1),a(`div`,{class:`tip`,style:{"margin-top":`.4em`}},`💡 Regla: si el agente no cita la nota original, no lo des por cierto. Pídele "cita de qué nota sale".`,-1)]]),_:1},16))}};export{d as default};

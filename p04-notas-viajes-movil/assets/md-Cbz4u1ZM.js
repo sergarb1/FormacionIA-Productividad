@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CNXmt1Pb.js";import{t as u}from"./slidev/default-D3VpHDPb.js";var d={__name:`p04-notas-viajes-movil.md__slidev_2`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),1))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p04-notas-viajes-movil/slide01.mp3`})],-1),a(`h2`,null,`🗂 Caso 1 · Capturar notas sin orden`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` Marta acumula notas sueltas de llamadas y quiere ordenarlas sin tardar la tarde.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#3b82f6`}},[a(`code`,null,`[1] Soy coordinadora de compras.
+[2] Ordena estas 6 notas sueltas en temas
+\xA0    y resúmelas.
+[3] Contexto: notas de llamadas de octubre
+\xA0    (todo ficticio): Suministros Norte,
+\xA0    Cliente del Norte, auditoría interna…
+[4] Formato: 4 grupos como máximo, cada
+\xA0    nota en 1 línea con su acción.
+[5] No borres ninguna nota ni crees temas
+\xA0    nuevos fuera de los que aparezcan.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Las 6 notas siguen todas presentes?`),a(`li`,null,`¿Los grupos salen de lo que escribiste, no de su imaginación?`),a(`li`,null,`¿Cada línea termina en una acción concreta?`),a(`li`,null,`Errores típicos: fusiona dos notas distintas en una`),a(`li`,null,`Errores típicos: inventa acciones "lógicas" que no mencionaste`)])])],-1)]]),_:1},16))}};export{d as default};

@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CNXmt1Pb.js";import{t as u}from"./slidev/default-D3VpHDPb.js";var d={__name:`p04-notas-viajes-movil.md__slidev_6`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),5))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p04-notas-viajes-movil/slide05.mp3`})],-1),a(`h2`,null,`🧘 Caso 4 · Hábitos y revisión mensual`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` último día hábil del mes. El agente prepara; tú decides y firmas.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#f59e0b`}},[a(`code`,null,`[1] Soy responsable de administración.
+[2] Prepara mi revisión mensual de noviembre.
+[3] Contexto: te paso mis 3 listas —
+\xA0    logrado (7 puntos), pendiente (4),
+\xA0    incidencias (2). Todo ficticio.
+[4] Formato: 1 página → logros / qué se
+\xA0    quedó / 3 prioridades de diciembre.
+[5] No justifiques errores ni pidas
+\xA0    disculpas: solo hechos y acciones.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Los 7 logros son los tuyos, sin adornos ni culpas?`),a(`li`,null,`¿Las 4 pendientes siguen ahí (no se han evaporado)?`),a(`li`,null,`¿Solo 3 prioridades para el mes siguiente?`),a(`li`,null,`Errores típicos: convierte pendientes en "resueltos"`),a(`li`,null,`Errores típicos: escribe disculpas que tú no pediste`)])])],-1)]]),_:1},16))}};export{d as default};

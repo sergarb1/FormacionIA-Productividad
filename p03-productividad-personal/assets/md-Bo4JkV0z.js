@@ -1,0 +1,10 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-C0Ptl6_Q.js";import{t as u}from"./slidev/default-DzazLf44.js";var d={__name:`p03-productividad-personal.md__slidev_5`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),4))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p03-productividad-personal/slide04.mp3`})],-1),a(`h2`,null,`🥇 Caso 4 · Priorizar de verdad`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Situación:`),i(` Carlos tiene 9 tareas y sensación de que todo es urgente. El agente separa `),a(`strong`,null,`urgente`),i(` de `),a(`strong`,null,`importante`),i(`.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#10b981`}},[a(`code`,null,`[1] Soy coordinador de un equipo de 4.
+[2] Clasifica estas 9 tareas en: hoy /
+\xA0    esta semana / cuando haya hueco.
+[3] Datos: presupuesto EJEMPLO-02 cierra
+\xA0    el 5 · auditoría el jueves · el resto
+\xA0    son tareas habituales del puesto.
+[4] Formato: 3 grupos, cada tarea con un
+\xA0    motivo de una línea.
+[5] No cambies fechas ni metas tareas
+\xA0    de otras personas.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Siguen siendo 9 tareas? (ni una de más ni de menos)`),a(`li`,null,`¿El presupuesto del 5 está en "hoy" o lo primero de la semana?`),a(`li`,null,`¿El motivo de cada tarea se apoya en tus datos?`),a(`li`,null,`Errores típicos: prioriza por lo que "suena" importante`),a(`li`,null,`Errores típicos: mete tareas del equipo en tu lista`)])])],-1)]]),_:1},16))}};export{d as default};

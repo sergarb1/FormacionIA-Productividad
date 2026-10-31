@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-C0Ptl6_Q.js";import{t as u}from"./slidev/default-DzazLf44.js";var d={__name:`p03-productividad-personal.md__slidev_6`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),5))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p03-productividad-personal/slide05.mp3`})],-1),a(`h2`,null,`🗓 Caso 5 · Planificación semanal en 15 minutos`,-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,null,[a(`div`,{class:`card`,style:{"margin-bottom":`.3em`,"border-left":`3px solid #3b82f6`}},[a(`p`,null,[i(`🧾 `),a(`strong`,null,`La rutina (viernes 16:00)`)]),a(`ul`,{style:{"font-size":`.6em`,"line-height":`1.5`,"padding-left":`1.1em`}},[a(`li`,null,`1. Pegas lo ocurrido esta semana + pendientes`),a(`li`,null,`2. El agente propone la semana siguiente`),a(`li`,null,`3. Tú corriges y apruebas (5 min)`),a(`li`,null,`4. Guardas el plan: lo revisas el lunes`)])]),a(`div`,{class:`tip`},`💡 15 minutos el viernes evitan el "¿por dónde empiezo?" del lunes.`)]),a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Prompt de ejemplo`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#8b5cf6`}},[a(`code`,null,`[1] Soy administración.
+[2] Monta mi plan de la semana del 10 al 14.
+[3] Contexto: me quedan 4 pendientes de
+\xA0    esta (te paso la lista) y el jueves
+\xA0    hay formación de 10:00 a 13:00.
+[4] Formato: un día por bloque, 3-5 tareas
+\xA0    por día, la más importante arriba.
+[5] No repartas más de 5 tareas al día ni
+\xA0    programes nada para el viernes tarde.`)])])],-1)]]),_:1},16))}};export{d as default};
