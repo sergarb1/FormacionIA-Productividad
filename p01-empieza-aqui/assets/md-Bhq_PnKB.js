@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-DyEY67la.js";import{t as u}from"./slidev/default-Dr8Eo4b_.js";var d={__name:`p01-empieza-aqui.md__slidev_10`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),9))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p01-empieza-aqui/slide09.mp3`})],-1),a(`h2`,null,`📝 Tu primera tarea, bien hecha`,-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Tu primer prompt (plantilla de 5 partes)`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#10b981`}},[a(`code`,null,`"[1] Soy asistente de dirección en una
+\xA0    empresa de logística.
+\xA0[2] Necesito un borrador de correo para
+\xA0    avisar del retraso de un pedido.
+\xA0[3] Contexto: pedido EJEMPLO-01, retraso
+\xA0    de 3 días, cliente habitual.
+\xA0[4] Formato: 6 líneas, tono cordial.
+\xA0[5] No prometas fecha nueva ni pides
+\xA0    disculpas dos veces."`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Cómo verificar el resultado`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Tiene las 6 líneas y el tono cordial?`),a(`li`,null,`¿Aparece solo el pedido EJEMPLO-01?`),a(`li`,null,`¿Ha evitado prometer fecha nueva?`),a(`li`,null,`¿Suena a tu voz al leerlo en voz alta?`),a(`li`,null,`Si algo falla: corrige una cosa y repite`)])])],-1),a(`p`,{class:`sm`,style:{"margin-top":`.4em`}},[i(`Las 5 partes en detalle y 5 ejemplos de oficina: `),a(`strong`,null,`Parte 2`),i(`.`)],-1)]]),_:1},16))}};export{d as default};

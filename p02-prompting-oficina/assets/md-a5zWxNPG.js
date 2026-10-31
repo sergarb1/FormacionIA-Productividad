@@ -1,0 +1,8 @@
+import{L as e,T as t,Y as n,_ as r,g as i,gt as a,mt as o}from"./modules/shiki-CTmrkNOW.js";import{et as s,tt as c}from"./index-DBJrxLKb.js";import{t as l}from"./slidev/default-K-QdaRhP.js";var u={__name:`p02-prompting-oficina.md__slidev_4`,setup(u){let{$slidev:d,$nav:f,$clicksContext:p,$clicks:m,$page:h,$renderContext:g,$frontmatter:_}=c();return p.setup(),(c,u)=>(e(),r(l,a(t(o(s)(o(_),3))),{default:n(()=>[...u[0]||=[i(`p`,null,[i(`audio`,{class:`deck-audio`,src:`../audio-p02-prompting-oficina/slide03.mp3`})],-1),i(`h2`,null,`✉️ Ejemplo 1 · Correo a proveedor`,-1),i(`div`,{class:`g2`,style:{gap:`1.2em`}},[i(`div`,{class:`pc`,style:{margin:`0`}},[i(`div`,{class:`pl`},`📝 Las 5 partes en un mensaje`),i(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#3b82f6`}},[i(`code`,null,`[1] Soy compras de Empresa Ejemplo S.L.
+[2] Borrador de correo para pedir una
+\xA0    rebaja del 5 % por volumen.
+[3] Contexto: proveedor Suministros Norte,
+\xA0    pedimos 200 cajas/mes, contrato EJEMPLO-01.
+[4] Formato: 8 líneas, tono cordial pero firme.
+[5] No aceptes ningún porcentaje ni prometas
+\xA0    comprar más; solo pide la reunión."`)])]),i(`div`,{class:`exp`},[i(`div`,{class:`pl`},`✅ Qué verificar después`),i(`ul`,{class:`exp-list`},[i(`li`,null,`¿Pide la reunión y no la rebaja ya cerrada?`),i(`li`,null,`¿Aparecen Suministros Norte y 200 cajas/mes?`),i(`li`,null,`¿8 líneas y tono cordial-firme?`),i(`li`,null,`¿Se ha comido las cifras inventadas? (revisa)`),i(`li`,null,`Errores típicos: se pasa de largo o cede en el precio`)])])],-1)]]),_:1},16))}};export{u as default};
