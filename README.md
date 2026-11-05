@@ -1,5 +1,7 @@
 # 🤖 Agentes de IA para productividad personal y de equipo
 
+> 🌐 **[Ver el curso online → sergarb1.github.io/FormacionIA-Productividad](https://sergarb1.github.io/FormacionIA-Productividad/)**
+
 **Serie de presentaciones interactivas** para aprender, paso a paso, a hacer que **agentes de IA trabajen contigo y en equipo**: organizar la agenda, preparar reuniones, ordenar el correo y cerrar el mes — **sin programar y sin usar la terminal**. Con audio narrado y PDF descargable.
 
 > 🎯 **A quién va dirigido:** administración, RRHH, finanzas, atención al cliente, asistentes de dirección y cualquier persona que viva entre el correo, el Excel, el calendario y los documentos. **No hace falta saber programar.**
@@ -89,5 +91,5 @@ Este curso se creó a partir de la estructura y el flujo de trabajo de la **seri
 ## 📜 Licencia y créditos
 
 - **Licencia:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Sergi Garcia Barea. Comparte y adapta el material para cualquier fin, siempre con atribución y bajo la misma licencia.
-- **Hecho con:** [Freebuff](https://freebuff.com) + [OpenCode](https://opencode.ai) + [Slidev](https://sli.dev).
+- **Hecho con:** [OpenCode](https://opencode.ai) + [Slidev](https://sli.dev).
 - **Voz:** Edge TTS (`es-ES-AlvaroNeural`).
