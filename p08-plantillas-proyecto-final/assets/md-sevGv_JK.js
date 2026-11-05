@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CXkIvOsT.js";import{t as u}from"./slidev/default-DmmAbtZc.js";var d={__name:`p08-plantillas-proyecto-final.md__slidev_6`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),5))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p08-plantillas-proyecto-final/slide05.mp3`})],-1),a(`h2`,null,`📝 Plantilla 4 · Respuesta a cliente`,-1),a(`p`,{class:`sm`},[i(`Correos delicados: reclamaciones, retrasos, incidencias. `),a(`strong`,null,`El envío siempre es tuyo.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📋 Copia y rellena`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#dc2626`}},[a(`code`,null,`[1] Soy atención al cliente.
+[2] Prepara un borrador a ___.
+[3] Datos: ___ (hechos, fechas,
+\xA0    compensación autorizada).
+[4] Formato: correo de 8 líneas,
+\xA0    tono cercano.
+[5] Sin culpas en exceso, sin
+\xA0    prometer "nunca más"; deja el
+\xA0    correo SIN ENVIAR.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Antes de enviarlo tú`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Primer línea reconoce el problema?`),a(`li`,null,`¿Ofrece solo lo autorizado?`),a(`li`,null,`¿Lee cada frase: la firmas tú?`),a(`li`,null,`¿El tono suena humano, no a plantilla?`)]),a(`p`,{class:`sm`,style:{"margin-top":`.3em`}},`Del Ejercicio 6 de la Parte 7.`)])],-1)]]),_:1},16))}};export{d as default};

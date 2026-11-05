@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CXkIvOsT.js";import{t as u}from"./slidev/default-DmmAbtZc.js";var d={__name:`p08-plantillas-proyecto-final.md__slidev_5`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),4))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p08-plantillas-proyecto-final/slide04.mp3`})],-1),a(`h2`,null,`📝 Plantilla 3 · El acta que no inventa`,-1),a(`p`,{class:`sm`},[i(`Para reuniones de equipo. Lo importante está en la parte 5: `),a(`strong`,null,`qué prohibir`),i(`.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📋 Copia y rellena`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#8b5cf6`}},[a(`code`,null,`[1] Soy ___ (cargo, ficticio).
+[2] Convierte estas notas en acta.
+[3] Datos: ___ notas; asisten ___;
+\xA0    acuerdos: ___.
+[4] Formato: asistentes / acuerdos
+\xA0    con responsable y fecha /
+\xA0    pendientes "sin decidir".
+[5] No inventes acuerdos ni fechas:
+\xA0    lo no dicho, márcalo.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Antes de dar el acta por buena`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Solo las personas de mis notas?`),a(`li`,null,`¿Fechas solo las que yo di?`),a(`li`,null,`¿Lo dudoso sigue "sin decidir"?`),a(`li`,null,`¿Cuento las notas: están todas?`)]),a(`p`,{class:`sm`,style:{"margin-top":`.3em`}},`Del Ejercicio 3 de la Parte 7.`)])],-1)]]),_:1},16))}};export{d as default};

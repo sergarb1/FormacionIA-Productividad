@@ -20,7 +20,7 @@ const DECKS = [
   { entry: 'p05-productividad-equipo.md',  slug: 'p05-productividad-equipo',  pdf: 'p05-productividad-equipo.pdf' },
   { entry: 'p06-agentes-interconectados.md', slug: 'p06-agentes-interconectados', pdf: 'p06-agentes-interconectados.pdf' },
   { entry: 'p07-ejercicios-guiados.md',   slug: 'p07-ejercicios-guiados',   pdf: 'p07-ejercicios-guiados.pdf' },
-  // La parte 8 se añadirá en la fase siguiente del curso
+  { entry: 'p08-plantillas-proyecto-final.md', slug: 'p08-plantillas-proyecto-final', pdf: 'p08-plantillas-proyecto-final.pdf' },
 ]
 
 function run(args) {

@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-CXkIvOsT.js";import{t as u}from"./slidev/default-DmmAbtZc.js";var d={__name:`p08-plantillas-proyecto-final.md__slidev_3`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),2))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p08-plantillas-proyecto-final/slide02.mp3`})],-1),a(`h2`,null,`📝 Plantilla 1 · El pedido genérico`,-1),a(`p`,{class:`sm`},[i(`La plantilla madre: sirve para `),a(`strong`,null,`cualquier tarea`),i(`. Rellena 5 huecos y envía.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📋 Copia y rellena`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#3b82f6`}},[a(`code`,null,`[1] Soy ___ (cargo) de ___ (empresa,
+\xA0    ficticia).
+[2] Quiero que ___ (una tarea clara).
+[3] Datos: ___ (lo que pegas aquí;
+\xA0    nunca datos reales).
+[4] Formato: ___ (tabla, correo de 8
+\xA0    líneas, 10 líneas…).
+[5] No ___ (límite: sin enviar, sin
+\xA0    inventar, sin redondear).`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Antes de enviarlo`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Los 5 huecos están rellenados?`),a(`li`,null,`¿Los datos son ficticios o anonimizados?`),a(`li`,null,`¿La parte 5 pone un límite concreto?`),a(`li`,null,`Si falta un hueco: no lo envíes, es una adivinanza.`)]),a(`p`,{class:`sm`,style:{"margin-top":`.3em`}},`Esta plantilla es la Parte 2 del curso, en una línea.`)])],-1)]]),_:1},16))}};export{d as default};
