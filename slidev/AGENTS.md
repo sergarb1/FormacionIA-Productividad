@@ -5,8 +5,8 @@
 # AGENTS.md - Plan paso a paso para crear presentaciones del curso "Agentes de IA para productividad"
 
 Este archivo define el flujo de trabajo (step-by-step) para generar y
-mantener las presentaciones de este repo con **OpenCode + Freebuff**
-(gratuitos) y **Slidev** (sli.dev).
+mantener las presentaciones de este repo con **OpenCode** (gratis)
+y **Slidev** (sli.dev).
 
 ---
 
@@ -15,7 +15,7 @@ mantener las presentaciones de este repo con **OpenCode + Freebuff**
 | Pieza | Herramienta | Rol |
 |-------|-------------|-----|
 | Framework de diapositivas | **Slidev** (sli.dev v53) | Presentaciones HTML exportables a PDF |
-| Redacción de contenido | **Freebuff** (freebuff.com) | Prompts, narraciones y textos de slides |
+| Redacción de contenido | **OpenCode** (opencode.ai) | Prompts, narraciones y textos de slides |
 | Generación de código / build | **OpenCode** (opencode.ai) | Scaffolding, iteraciones, build y export |
 | Voz del audio | **edge-tts** (`es-ES-AlvaroNeural`) | Narración diapositiva a diapositiva |
 | Hosting | **GitHub Pages** | Publicación desde `main` (base `/FormacionIA-Productividad/`) |
@@ -151,16 +151,9 @@ done
 
 ---
 
-## §3 · Flujo recomendado con Freebuff + OpenCode
+## §3 · Flujo recomendado con OpenCode
 
-### Con Freebuff (rápido)
-
-1. Entra en **freebuff.com** y describe la presentación: audiencia,
-   nivel y formato
-2. Pide borradores de prompts, ejemplos y textos de slides en el chat
-3. Pide "conviértelo en una presentación" si necesitas visualizarlo
-
-### Con OpenCode (mantenimiento y builds)
+### Mantenimiento y builds
 
 1. `cd FormacionIA-Productividad && opencode`
 2. "Añade una diapositiva sobre X al deck `slidev/0N-<tema>.md`
@@ -208,9 +201,7 @@ for d in dist/p*; do rm -rf "../$(basename $d)" && cp -r "$d" "../$(basename $d)
 Badges de herramientas (`.tb`):
 
 ```css
-.tb.fb    { background:#ede9fe; color:#5b21b6; }  /* 🐋 Freebuff */
 .tb.op    { background:#d1fae5; color:#065f46; }  /* ⚙️ OpenCode */
-.tb.both  { background:#e0e7ff; color:#3730a3; }  /* Freebuff + OpenCode */
 ```
 
 ---
