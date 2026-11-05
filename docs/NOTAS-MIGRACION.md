@@ -64,3 +64,18 @@ _Decisiones y riesgos de transformar este repositorio en el curso
   documento quedan superadas: aquí no hay serie con la que convivir.
 - Rama del repo nuevo: `main`, **sin remoto todavía** (el push llegará en la Fase 8).
 - La base de Pages del build cambia a `/FormacionIA-Productividad/<slug>/`
+
+## Cierre (05/11/2026): curso completo
+
+- **Las 8 presentaciones están terminadas y publicadas** (102 diapositivas):
+  p01 empieza-aqui (12), p02 prompting-oficina (12), p03 productividad-personal
+  (13), p04 notas-viajes-movil (13), p05 productividad-equipo (13),
+  p06 agentes-interconectados (15), p07 ejercicios-guiados (12),
+  p08 plantillas-proyecto-final (12).
+- Cada parte tiene: narración en audio MP3 (1:1 con las diapositivas),
+  carpeta HTML publicada con base `/FormacionIA-Productividad/` y PDF en la raíz.
+- **QA final de los 8 decks**: 0 desbordes en 102 diapositivas, ninguna
+  diapositiva vacía, contraste WCAG AA (21:1) en todos los bloques.
+- La portada `index.html` está al 8/8 y `README.md` con la tabla completa.
+- Pendiente único: crear el repositorio en GitHub y hacer el push
+  (Fase 8, requiere confirmación explícita).
