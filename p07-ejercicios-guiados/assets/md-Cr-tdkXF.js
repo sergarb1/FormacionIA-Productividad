@@ -1,0 +1,9 @@
+import{L as e,T as t,Y as n,_ as r,b as i,g as a,gt as o,mt as s}from"./modules/shiki-CTmrkNOW.js";import{et as c,tt as l}from"./index-BQwvexHa.js";import{t as u}from"./slidev/default-CrmqlCDE.js";var d={__name:`p07-ejercicios-guiados.md__slidev_6`,setup(d){let{$slidev:f,$nav:p,$clicksContext:m,$clicks:h,$page:g,$renderContext:_,$frontmatter:v}=l();return m.setup(),(l,d)=>(e(),r(u,o(t(s(c)(s(v),5))),{default:n(()=>[...d[0]||=[a(`p`,null,[a(`audio`,{class:`deck-audio`,src:`../audio-p07-ejercicios-guiados/slide05.mp3`})],-1),a(`h2`,null,`✏️ Ejercicio 4 · El resumen con cifras literales`,-1),a(`p`,{class:`sm`},[a(`strong`,null,`Encargo (10 min):`),i(` resume el cuadro de gastos de noviembre en 10 líneas, sin redondeos.`)],-1),a(`div`,{class:`g2`,style:{gap:`1.2em`}},[a(`div`,{class:`pc`,style:{margin:`0`}},[a(`div`,{class:`pl`},`📝 Solución`),a(`pre`,{style:{"font-size":`.5em`,"border-left-color":`#f59e0b`}},[a(`code`,null,`[1] Soy responsable de admin.
+[2] Resume este cuadro en 10 líneas.
+[3] Datos: filas copiadas (fecha,
+\xA0    concepto, importe), ficticias.
+[4] Formato: total / qué subió /
+\xA0    qué propongo revisar.
+[5] No hagas cálculos nuevos ni
+\xA0    redondees: cada cifra sale del
+\xA0    cuadro pegado.`)])]),a(`div`,{class:`exp`},[a(`div`,{class:`pl`},`✅ Lo que vigilas`),a(`ul`,{class:`exp-list`},[a(`li`,null,`¿Sumaste el total a mano y coincide?`),a(`li`,null,`¿Todas las cifras aparecen en tu cuadro?`),a(`li`,null,`¿Cabe en 10 líneas sin perder información?`),a(`li`,null,`¿Propone cosas que nadie pidió? Márcalas aparte.`)])])],-1)]]),_:1},16))}};export{d as default};

@@ -19,7 +19,8 @@ const DECKS = [
   { entry: 'p04-notas-viajes-movil.md',    slug: 'p04-notas-viajes-movil',    pdf: 'p04-notas-viajes-movil.pdf' },
   { entry: 'p05-productividad-equipo.md',  slug: 'p05-productividad-equipo',  pdf: 'p05-productividad-equipo.pdf' },
   { entry: 'p06-agentes-interconectados.md', slug: 'p06-agentes-interconectados', pdf: 'p06-agentes-interconectados.pdf' },
-  // Las partes 7-8 se añadirán en las fases siguientes del curso
+  { entry: 'p07-ejercicios-guiados.md',   slug: 'p07-ejercicios-guiados',   pdf: 'p07-ejercicios-guiados.pdf' },
+  // La parte 8 se añadirá en la fase siguiente del curso
 ]
 
 function run(args) {
